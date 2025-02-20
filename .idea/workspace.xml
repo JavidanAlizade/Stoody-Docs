@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cb7db6d-8523-4fdc-8262-196cf141d979" name="Changes" comment="Commit" />
+    <list default="true" id="9cb7db6d-8523-4fdc-8262-196cf141d979" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/static/img/guidance_pic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docusaurus.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/pages/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +44,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "D:\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,7 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1740070236278</updated>
       <workItem from="1740070237341" duration="483000" />
-      <workItem from="1740070799600" duration="3376000" />
+      <workItem from="1740070799600" duration="4877000" />
+      <workItem from="1740076252313" duration="2372000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -108,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740074088714</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1740076221357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740076221357</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,8 +141,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit" />
     <MESSAGE value="Delete blog and rename the tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete blog and rename the tutorial" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
