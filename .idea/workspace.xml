@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cb7db6d-8523-4fdc-8262-196cf141d979" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/static/img/accelerate-svgrepo-com.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/static/img/gudiance.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/explanation-of-technical-terms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/problem-solving.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/styles.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/pages/index.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/pages/index.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/intro.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gulsen18"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JavidanAlizade/Stoody-Docs.git",
+    "accountId": "19692ef2-cc8b-4209-9837-10467486d188"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -35,34 +43,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.docusaurus.config.mjs.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "testing-branch-001",
-    "last_opened_file_path": "D:/Stoody-Docs-3/stoody-internal-doc/static/img",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.docusaurus.config.mjs.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;testing-branch-001&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/stoody-turborepo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Stoody-Docs-3\stoody-internal-doc\static\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gulsen\Desktop\Stoody-Docs\stoody-internal-doc\docs" />
       <recent name="D:\Stoody-Docs-3\stoody-internal-doc\static\img" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
       </set>
     </attachedChunks>
   </component>
@@ -77,6 +86,7 @@
       <workItem from="1740070237341" duration="483000" />
       <workItem from="1740070799600" duration="4877000" />
       <workItem from="1740076252313" duration="8344000" />
+      <workItem from="1740244165170" duration="2688000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />

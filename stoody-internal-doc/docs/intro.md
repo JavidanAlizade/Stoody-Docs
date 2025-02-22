@@ -31,6 +31,26 @@ You can type this command into Command Prompt, Powershell, Terminal, or any othe
 
 The command also installs all necessary dependencies you need to run Docusaurus.
 
+## Backend Setup and Build
+Before you can start the Stoody backend, you need to build it first.
+
+## Build the Backend
+If you are using TypeScript for the backend, first compile the TypeScript code to JavaScript.
+
+Run the following command:
+
+`npm run build`
+
+This will create the compiled production code in the `dist/` folder.
+
+## Start the Backend
+After building the backend, you can start the server:
+
+`npm start`
+
+The backend will now run using the compiled code in the dist/ folder, and you can access it at http://localhost:8080/.
+
+
 ## Start your site
 
 Run the development server:

@@ -1,0 +1,127 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"9cb7db6d-8523-4fdc-8262-196cf141d979\" name=\"Changes\" comment=\"Commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/stoody-internal-doc/static/img/accelerate-svgrepo-com.svg\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/stoody-internal-doc/static/img/gudiance.svg\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/index.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/index.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/styles.module.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/styles.module.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/stoody-internal-doc/src/css/custom.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/stoody-internal-doc/src/css/custom.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/stoody-internal-doc/src/pages/index.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/stoody-internal-doc/src/pages/index.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/stoody-internal-doc/src/pages/index.module.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/stoody-internal-doc/src/pages/index.module.css\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2tJVbcQy9fAPcdO7ub8cZaB9vf2\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Node.js.docusaurus.config.mjs.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"testing-branch-001\",\r\n    \"last_opened_file_path\": \"D:/Stoody-Docs-3/stoody-internal-doc/static/img\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"ts.external.directory.path\": \"C:\\\\Program Files\\\\JetBrains\\\\WebStorm 2024.3.1.1\\\\plugins\\\\javascript-plugin\\\\jsLanguageServicesImpl\\\\external\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Stoody-Docs-3\\stoody-internal-doc\\static\\img\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Stoody-Docs-3\\stoody-internal-doc\\static\\img\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"9cb7db6d-8523-4fdc-8262-196cf141d979\" name=\"Changes\" comment=\"\" />\r\n      <created>1740070236278</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1740070236278</updated>\r\n      <workItem from=\"1740070237341\" duration=\"483000\" />\r\n      <workItem from=\"1740070799600\" duration=\"4877000\" />\r\n      <workItem from=\"1740076252313\" duration=\"8344000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740070427505</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740070427505</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740071024548</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740071024548</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740073126723</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740073126723</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740073503597</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740073503597</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740074088714</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740074088714</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740076221357</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740076221357</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740079002268</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740079002268</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Delete blog and rename the tutorial\" />\r\n    <MESSAGE value=\"Commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1aacbf71abf91c896c7ec6c8dda11b0838b9c3c8)
++++ b/.idea/workspace.xml	(date 1740226499908)
+@@ -4,15 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="9cb7db6d-8523-4fdc-8262-196cf141d979" name="Changes" comment="Commit">
+-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/static/img/accelerate-svgrepo-com.svg" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/static/img/gudiance.svg" afterDir="false" />
++    <list default="true" id="9cb7db6d-8523-4fdc-8262-196cf141d979" name="Changes" comment="Make the docs page as the landing page">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/index.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/components/HomepageFeatures/styles.module.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/css/custom.css" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/pages/index.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/src/pages/index.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/src/pages/index.module.css" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -27,6 +21,18 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;gulsen18&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/JavidanAlizade/Stoody-Docs.git&quot;,
++    &quot;accountId&quot;: &quot;19692ef2-cc8b-4209-9837-10467486d188&quot;
++  }
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 8
+ }</component>
+@@ -35,22 +41,22 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Node.js.docusaurus.config.mjs.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "testing-branch-001",
+-    "last_opened_file_path": "D:/Stoody-Docs-3/stoody-internal-doc/static/img",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Node.js.docusaurus.config.mjs.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;testing-branch-001&quot;,
++    &quot;last_opened_file_path&quot;: &quot;D:/Stoody-Docs-3/stoody-internal-doc/static/img&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;ts.external.directory.path&quot;: &quot;D:\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="D:\Stoody-Docs-3\stoody-internal-doc\static\img" />
+@@ -62,7 +68,7 @@
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
++        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+       </set>
+     </attachedChunks>
+   </component>
+@@ -77,6 +83,8 @@
+       <workItem from="1740070237341" duration="483000" />
+       <workItem from="1740070799600" duration="4877000" />
+       <workItem from="1740076252313" duration="8344000" />
++      <workItem from="1740225568619" duration="576000" />
++      <workItem from="1740226158339" duration="340000" />
+     </task>
+     <task id="LOCAL-00001" summary="Commit">
+       <option name="closed" value="true" />
+Index: stoody-internal-doc/src/pages/index.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import clsx from 'clsx';\r\nimport Link from '@docusaurus/Link';\r\nimport useDocusaurusContext from '@docusaurus/useDocusaurusContext';\r\nimport Layout from '@theme/Layout';\r\nimport HomepageFeatures from '@site/src/components/HomepageFeatures';\r\n\r\nimport Heading from '@theme/Heading';\r\nimport styles from './index.module.css';\r\n\r\nfunction HomepageHeader() {\r\n  const {siteConfig} = useDocusaurusContext();\r\n  return (\r\n    <header className={clsx('hero hero--primary', styles.heroBanner)}>\r\n      <div className=\"container\">\r\n          <Heading as=\"h1\" className=\"hero__title\" style={{ color: \"#4FDDBF\", textShadow: \"0 0 3px #4FDDBF, 0 0 20px #4FDDBF, 0 0 30px #4FDDBF\"  }}>\r\n          {siteConfig.title}\r\n        </Heading>\r\n        <p className=\"hero__subtitle\" style={{ color: \"white\" }}>{siteConfig.tagline}</p>\r\n        <div className={styles.buttons}>\r\n          <Link\r\n            className=\"button button--secondary button--lg\"\r\n            to=\"/docs/intro\">\r\n            Docs\r\n          </Link>\r\n        </div>\r\n      </div>\r\n    </header>\r\n  );\r\n}\r\n\r\nexport default function Home() {\r\n  const {siteConfig} = useDocusaurusContext();\r\n  return (\r\n    <Layout\r\n      title={`Hello from ${siteConfig.title}`}\r\n      description=\"Description will go into a meta tag in <head />\">\r\n      <HomepageHeader />\r\n      <main>\r\n        <HomepageFeatures />\r\n      </main>\r\n    </Layout>\r\n  );\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/stoody-internal-doc/src/pages/index.js b/stoody-internal-doc/src/pages/index.js
+--- a/stoody-internal-doc/src/pages/index.js	(revision 1aacbf71abf91c896c7ec6c8dda11b0838b9c3c8)
++++ b/stoody-internal-doc/src/pages/index.js	(date 1740226141772)
+@@ -6,9 +6,14 @@
+ 
+ import Heading from '@theme/Heading';
+ import styles from './index.module.css';
++import {useEffect} from "react";
+ 
+ function HomepageHeader() {
+   const {siteConfig} = useDocusaurusContext();
++
++  useEffect(() => {
++      history.push('/internal-docs'); }, []);
++
+   return (
+     <header className={clsx('hero hero--primary', styles.heroBanner)}>
+       <div className="container">
