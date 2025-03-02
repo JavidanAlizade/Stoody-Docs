@@ -24,6 +24,7 @@ Here are some key technical terms used in Stoody:
 **Authentication vs. Authorization:**
 
    Authentication verifies who a user is (e.g., login with email and password).
+
    Authorization determines what a user can do (e.g., admin access vs. regular user access).
 
 **CI/CD (Continuous Integration & Continuous Deployment):** A process that automates testing and deployment of applications to ensure faster and more reliable releases.
