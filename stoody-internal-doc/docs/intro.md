@@ -2,34 +2,27 @@
 sidebar_position: 1
 ---
 
-# Stoody Internal Docs
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This guide will walk you through the process of setting up **Stoody**, using the key features, and troubleshooting common issues.
 
-## Getting Started
+## System Requirements
+**Operating System:** Windows 10 or macOS 10.14+
 
-Get started by **creating a new site**.
+**Web Browser:** Google Chrome (latest version), Mozilla Firefox (latest version)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+**Node.js:** Version 18.0 or above
 
-### What you'll need
+**MongoDB:** Required for local database setup (if using a local instance)
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+## Prerequisites
 
-Generate a new Docusaurus site using the **classic template**.
+**npm & pnpm** (Package managers)
 
-The classic template will automatically be added to your project after you run the command:
+**TypeScript** (if you're working with the backend)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
+**A code editor** (e.g., WebStorm)
 
 ## Backend Setup and Build
 Before you can start the Stoody backend, you need to build it first.
@@ -50,18 +43,23 @@ After building the backend, you can start the server:
 
 The backend will now run using the compiled code in the dist/ folder, and you can access it at http://localhost:8080/.
 
+## Run the Application
+Once the setup is complete, run the development server:
+
+`npm run dev`
+
+The app will be available at http://localhost:3000/ for the frontend and http://localhost:8080/ for the backend.
 
 ## Start your site
 
 Run the development server:
 
 ```bash
-cd my-website
-npm run start
+cd stoody-internal-doc
+pnpm run start
 ```
-
 The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
 
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+

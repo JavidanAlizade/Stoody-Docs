@@ -1,4 +1,4 @@
-# Project Installation (Setup) 
+  # Project Installation (Setup) 
 
 ## Project Folder Structure
 Example of a typical monorepo structure:

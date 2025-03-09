@@ -4,16 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cb7db6d-8523-4fdc-8262-196cf141d979" name="Changes" comment="Problem solving and Explanation of technical terms">
-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/user-guide.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_05_36_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_05_36__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_05_39_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_05_39__Changes_.xml" beforeDir="false" />
+    <list default="true" id="9cb7db6d-8523-4fdc-8262-196cf141d979" name="Changes" comment="Problem solving and Explanation of technical terms and User guide">
+      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Api - Documentation/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Api - Documentation/endpoint-methods.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Security - Performance/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Security - Performance/security.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/System-Architecture-Technologies/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Version - License/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Version - License/version.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/explanation-of-technical-terms.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/explanation-of-technical-terms.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/problem-solving.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/problem-solving.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/Create - Package/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Create - Package/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/Project - Installation/Setup.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Project - Installation/Setup.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/Project - Installation/repository.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/System-Architecture-Technologies/repository.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Testing - Debugging/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/explanation-of-technical-terms.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Testing - Debugging/explanation-of-technical-terms.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/problem-solving.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Testing - Debugging/problem-solving.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/user-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/intro.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +45,16 @@
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/JavidanAlizade/Stoody-Docs.git&quot;,
     &quot;accountId&quot;: &quot;19692ef2-cc8b-4209-9837-10467486d188&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;JavidanAlizade&quot;,
+    &quot;repository&quot;: &quot;Stoody-Docs&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -47,32 +64,36 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="sortKey" value="BY_TIME_DESCENDING" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Node.js.docusaurus.config.mjs.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;testing-branch-001&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/stoody-turborepo&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.docusaurus.config.mjs.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "testing-branch-001",
+    "last_opened_file_path": "C:/Users/Gulsen/Desktop/Stoody-Docs/stoody-internal-doc/docs/License - Copyright",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.scopes",
+    "ts.external.directory.path": "D:\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gulsen\Desktop\Stoody-Docs\stoody-internal-doc\docs\License - Copyright" />
       <recent name="D:\Stoody-Docs-3\stoody-internal-doc\static\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Gulsen\Desktop\Stoody-Docs\stoody-internal-doc\docs\User - Guide" />
-      <recent name="C:\Users\Gulsen\Desktop\Stoody-Docs\stoody-internal-doc\docs" />
-      <recent name="D:\Stoody-Docs-3\stoody-internal-doc\static\img" />
+      <recent name="C:\Users\Gulsen\Desktop\Stoody-Docs\stoody-internal-doc\docs\Security - Performance" />
+      <recent name="C:\Users\Gulsen\Desktop\Stoody-Docs\stoody-internal-doc\docs\Testing - Debugging" />
+      <recent name="C:\Users\Gulsen\Desktop\Stoody-Docs\stoody-internal-doc\docs\Create - Package" />
+      <recent name="C:\Users\Gulsen\Desktop\Stoody-Docs\stoody-internal-doc\docs\Installation - Configurations" />
+      <recent name="C:\Users\Gulsen\Desktop\Stoody-Docs\stoody-internal-doc\docs\System-Architecture-Technologies" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -99,7 +120,12 @@
       <workItem from="1740346578151" duration="205000" />
       <workItem from="1740395467811" duration="690000" />
       <workItem from="1740683340481" duration="598000" />
-      <workItem from="1740912291845" duration="4940000" />
+      <workItem from="1740912291845" duration="6593000" />
+      <workItem from="1741119173269" duration="729000" />
+      <workItem from="1741440459490" duration="930000" />
+      <workItem from="1741441540606" duration="37000" />
+      <workItem from="1741441598734" duration="2710000" />
+      <workItem from="1741523465164" duration="7448000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -173,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740248138342</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Problem solving and Explanation of technical terms and User guide">
+      <option name="closed" value="true" />
+      <created>1740918127247</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740918127247</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +228,7 @@
     <MESSAGE value="Delete blog and rename the tutorial" />
     <MESSAGE value="Commit" />
     <MESSAGE value="Problem solving and Explanation of technical terms" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem solving and Explanation of technical terms" />
+    <MESSAGE value="Problem solving and Explanation of technical terms and User guide" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem solving and Explanation of technical terms and User guide" />
   </component>
 </project>
