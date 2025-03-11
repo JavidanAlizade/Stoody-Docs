@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cb7db6d-8523-4fdc-8262-196cf141d979" name="Changes" comment="Problem solving and Explanation of technical terms and User guide">
-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Api - Documentation/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Api - Documentation/endpoint-methods.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Security - Performance/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Security - Performance/security.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/System-Architecture-Technologies/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Version - License/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Version - License/version.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/Create - Package/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Create - Package/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/Project - Installation/Setup.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Project - Installation/Setup.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/Project - Installation/repository.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/System-Architecture-Technologies/repository.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Testing - Debugging/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/explanation-of-technical-terms.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Testing - Debugging/explanation-of-technical-terms.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/problem-solving.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/Testing - Debugging/problem-solving.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/User - Guide/user-guide.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stoody-internal-doc/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/stoody-internal-doc/docs/intro.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="testing-branch-001" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,7 +110,7 @@
       <workItem from="1741440459490" duration="930000" />
       <workItem from="1741441540606" duration="37000" />
       <workItem from="1741441598734" duration="2710000" />
-      <workItem from="1741523465164" duration="7448000" />
+      <workItem from="1741523465164" duration="10789000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -207,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740918127247</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Problem solving and Explanation of technical terms and User guide">
+      <option name="closed" value="true" />
+      <created>1741535585218</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741535585218</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

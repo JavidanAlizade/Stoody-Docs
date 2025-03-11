@@ -1,5 +1,5 @@
 ## Project License
-MIT License
+*************
 
 ## Version
 Version 0.1.0
